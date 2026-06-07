@@ -14,6 +14,6 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,tailwind,git,vscode,github" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,git,vscode,github" />
   </a>
 </p>
